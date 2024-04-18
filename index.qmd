@@ -1,0 +1,149 @@
+---
+title: "Der Algorithmus kennt mich (nicht):"
+subtitle: "Medienunterhaltung in algorithmisch kuratierten Umgebungen"
+author: "Felix Dietrich"
+categories:
+  - "BA Neue Medien / Online-Kommunikation KF/BF C"
+  - "Sose 2024"
+---
+
+Um die Chancen und Risiken digitaler Mediennutzung für das Wohlbefinden und die psychische Gesundheit von Individuen zu untersuchen, beforschen Medienpsycholog:innen häufig die Nutzung von Unterhaltungsmedien. Zunehmend werden mediale Unterhaltungsangebote jedoch nicht mehr linear, sondern auf algorithmisch kuratierten Plattformen (z.B. YouTube, Netflix, Spotify, TikTok) verbreitet und rezipiert. Diese Veränderung der Strukturierung von Nutzungssituationen eröffnet neue Fragen hinsichtlich unseres Wissens über die Rezeption und Wirkung von Unterhaltungsmedien: Welchen neuen Herausforderungen stehen Mediennutzer:innen gegenüber? Welche Strategien entwickeln sie, um mit diesen Herausforderungen umzugehen? Wie verändert sich das Erleben und die Wahrnehmung von Inhalten während der Mediennutzung? Und inwieweit ergeben sich vielleicht genau daraus neue Chancen für das Wohlbefinden der Nutzer:innen? Diesen und weiteren Fragen werden wir im Rahmen des Kurses nachgehen.
+
+## Seminarübersicht
+
+**Hinweis**: Folien, Übungen und Materialien zur Sitzungsvorbereitung werden im Laufe des Semesters ergänzt und aktualisiert. Bitte besuchen Sie die Kurs-Website regelmäßig!
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(gt)
+library(tidyverse)
+d <- readxl::read_xlsx("schedule.xlsx")
+```
+
+```{r}
+#| echo: false
+
+d |>
+  mutate(
+    Datum = as.Date(Datum),
+    Woche = ifelse(is.na(Woche), "", Woche)
+  ) |>
+  gt() |>
+  text_transform(cells_body(columns = c(Thema, Sitzungsart)),
+    fn = function(x) {
+      ifelse(str_detect(x, "Fronleichnam|Christi Himmelfahrt"),
+             str_c("<p style='opacity: .4;'>", x, "</p>"),
+             x
+      )
+    }
+  ) |>
+  text_transform(cells_body(columns = c(Vorbereitung)),
+    fn = function(x) {
+      ifelse(is.na(x), str_c("<a style='opacity: 0.1;'>", fontawesome::fa("book"),"</a>"),
+        str_c("<a href =", x, ">", fontawesome::fa("book"), "</a>")
+      )
+    }
+  ) |>
+  text_transform(cells_body(columns = c(Folien)),
+    fn = function(x) {
+      ifelse(is.na(x), str_c("<a style='opacity: 0.1;'>", fontawesome::fa("laptop"),"</a>"),
+        str_c("<a href =", x, ">", fontawesome::fa("laptop"), "</a>")
+      )
+    }
+  ) |>
+  text_transform(cells_body(columns = c(Abgaben)),
+    fn = function(x) {
+      ifelse(is.na(x), str_c("<a style='opacity: 0.1;'>", fontawesome::fa("file-circle-check"),"</a>"),
+        str_c("<a href =", x, ">", fontawesome::fa("file-circle-check"), "</a>")
+      )
+    }
+  ) |> 
+  fmt_date(Datum, date_style = 30, locale = "de") |>
+  sub_missing(columns = c(Datum, Thema, Sitzungsart), missing_text = "") |>
+  cols_align(
+    align = "center", 
+    columns = c(Woche, Vorbereitung, Folien, Abgaben)
+    ) |>
+  cols_align(
+    align = "left", 
+    columns = c(Datum, Thema, Sitzungsart)
+    ) |>
+  # tab_style(
+  #   style = cell_borders(
+  #     sides = "right",
+  #     color = "#3c3836",
+  #     style = "solid"
+  #   ),
+  #   locations = cells_body(
+  #     columns = c(Datum, Thema, Abgaben)
+  #   )
+  # ) |> 
+  cols_width(
+    "Datum" ~ px(75),
+    "Vorbereitung" ~ px(80),
+    "Folien" ~ px(80),
+    "Abgaben" ~ px(80),
+  ) |>
+  tab_options(quarto.disable_processing = TRUE) |>
+  tab_row_group(label = "Einführung", rows = 1) |>
+  tab_row_group(label = "Themenblock: Medienunterhaltung", rows = 2:7) |>
+  tab_row_group(label = "Themenblock: Algorithmische Kuratierung", rows = 8:13) |>
+  tab_row_group(label = "Abschluss", rows = 14:15) |>
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_fill(color = "#D3D3D3")
+    ),
+    locations = cells_row_groups(groups = TRUE)
+  ) |>
+  row_group_order(groups = c("Einführung", "Themenblock: Medienunterhaltung",
+                             "Themenblock: Algorithmische Kuratierung", "Abschluss"))
+  
+
+```
+
+## Was werde ich lernen?
+
+Nach dem Kurs haben Sie einen grundlegenden Überblick über aktuelle Themen und Fragestellungen der Forschung zu digitaler Unterhaltungsmediennutzung. Sie erwerben weiterhin ein Verständnis für Rolle von Algorithmen und Personalisierung auf digitalen Unterhaltungsplattformen und wie diese — vermittelt über Unterhaltungserfahrungen — mit dem psychologischen Wohlbefinden der Nutzer:innen zusammenhängen; Sie kennen die Möglichkeiten und Grenzen verschiedener theoretischer Ansätze; Sie sind in der Lage, das erworbene Wissen auf neue Forschungsgebiete anzuwenden und eigene spezifische Forschungsfragen zu entwickeln.
+
+### Methodische Kompetenz
+
+Sie sind in der Lage, sich selbstständig mit einer breiten und internationalen Literaturbasis auseinanderzusetzen; Sie können empirische Evidenz aus verschiedenen Perspektiven zu einem spezifischen Thema systematisieren und synthetisieren; Sie sind in der Lage, selbstständig und kollaborativ ein Thema zu bearbeiten und Ihre Ergebnisse nachvollziehbar zu präsentieren.
+
+### Persönliche Kompetenz
+
+Die Lehrveranstaltung unterstützt Sie bei der Entwicklung von Problemlösungskompetenzen im Hinblick auf Fragestellungen aus dem Bereich der Medienpsychologie. Im Laufe des Semesters wird Ihre Fähigkeit zur Strukturierung, Synthese und zum Transfer des erworbenen Wissens gefördert, so dass Sie in Zukunft eigene forschungsorientierte Aufgabenstellungen sicher angehen können.
+
+## Was muss ich tun?
+
+Der Kurs wird in wöchentlichen Seminar-Sitzungen abgehalten. Die Sitzungen werden *nicht* gestreamt und nicht aufgezeichnet. Die meisten Kursmaterialien werden über diese Kurs-Website bereitgestellt. Alle Studierenden, die am Kurs teilnehmen, müssen jedoch auch Zugang zum virtuellen Lernraum auf der [Moodle-Plattform](https://lms.uni-mainz.de) haben, da vertrauliche Kursmaterialien über Moodle bereitgestellt/freigegeben werden können und Übungen dort eingereicht werden müssen.
+
+### Studienleistungen zur Erbringung der aktiven Teilnahme
+
+Wenn Sie eine Note für den Kurs erhalten möchten, sind Sie verpflichtet, die folgenden regelmäßigen Leistungen zu erbringen. Diese Leistungen werden nicht benotet. Allerdings: Wenn Sie diese Aufgaben nicht erfüllen, können Sie den Kurs nicht bestehen.
+
+- **Wöchentliche Vorbereitung auf die Seminar-Sitzungen:** Um sich auf eine Seminar-Sitzung vorzubereiten, lesen Sie bitte die Spalte "Vorbereitung" in der Kursübersicht. Es kann zum Beispiel sein, dass Sie Literatur lesen müssen und/oder dass Sie einige Fragen gestellt bekommen. Sie sollten in der Lage sein, diese Fragen in der Sitzung zu beantworten. Im Laufe des Semesters kann weiteres Vorbereitungsmaterial hinzukommen. Schauen Sie daher bitte regelmäßig und rechtzeitig vor der nächsten Sitzung auf der Kurswebsite nach.
+
+- **Wöchentliche Sammlung von eigenen Unterhaltungserfahrungen:** Im Laufe des Semesters sammeln wir zur Diskussion in den Sitzungen Ihre persönlichen Erfahrungen bei der Nutzung von Unterhaltungsmedien auf algorithmisch kuratierten Plattformen (z.B. YouTube, Netflix, Spotify, TikTok). Sobald Sie im Zuge Ihrer eigenen Mediennutzung eine Erfahrung machen, die mit den im Kurs besprochenen Phänomenen und/oder der Rolle von algorithmischer Kuratierung in diesem Kontext kongruent (oder inkongruent) sind, machen Sie bitte einen Screenshot von der Nutzungssituation. Anschließend reichen Sie den Screenshot mit einer kurzen Beschreibung, weshalb diese Situation für Sie relevant erschien, über den folgenden Fragebogen ein: [https://www.soscisurvey.de/24-1-nmok/](https://www.soscisurvey.de/24-1-nmok/). Alle Einreichungen über diesen Fragebogen sind anonym. Zur Kontrolle der Einreichung erhalten Sie am Ende des Fragebogens einen personalisierten Code, den Sie per Mail an [felix.dietrich@uni-mainz.de](mailto:felix.dietrich@uni-mainz.de) senden. Im Laufe des Semesters dürfen Sie in maximal zwei Wochen keinen Code einsenden.
+  - Einreichung des Bestätigungscodes via Mail an den Dozenten
+  - Abgabefrist des Codes: Spätestens bis zum Tag vor der nächsten Sitzung um 23:59 Uhr
+
+- **Einmalige schriftliche Abgabe:** Um das Lernziel der Synthese (Themenblock: Unterhaltungserleben) zu erreichen und diese Fähigkeit für die Hausarbeit zu stärken, ist ein wissenschaftliches Essay Teil der Studienleistung. Auf Basis der Literatur und Diskussionen aus unseren Sitzungen verfassen Sie einen kurzen Aufsatz. In diesem dürfen Sie zitieren, aber auch frei Ideen und Kritikpunkte einbringen, die Sie sich überlegt oder im Kurs diskutiert haben. Die Essays können in Ihrer Form an den Diskussionsteil einer Hausarbeit angelehnt sein, aber auch eher theoretische oder praktische Inhalte diskutieren. Einige Leitfragen, die Sie bearbeiten können, finden Sie im LMS bzw. werden in den Sitzungen besprochen. Formale Hinweise:
+  -	600-800 Wörter (Wortzahl bitte unter dem Text festhalten)
+  -	Fließtextformatierung wie Hausarbeit (siehe [Informationen zur Hausarbeit](exercises/term_paper.html))
+  -	Abgabe via LMS
+  - Abgabefrist: 03.06.2024 um 23:59 Uhr
+  
+- **Regelmäßige Abgabe von Stichpunkten zum Journal Club:** In den "Journal Club"-Sitzungen  (Themenblock: Algorithmische Kuratierung) liest jeweils die Hälfte des Kurses Text A und die andere Hälfte Text B (Einteilung siehe "Vorbereitung" zur jeweiligen Sitzung). In den Sitzungen tauschen Sie sich über beide Texte aus. Das Ergebnis Ihres Dialogs halten Sie gemeinsam mit Ihren Diskussionspartner:innen während der Sitzung stichpunktartig fest und laden diese im LMS unter dem jeweiligen Abschnitt hoch. Die Studienleistung kann also vollständig während der Seminarsitzung erbracht werden. Wenn Sie zum jeweiligen Journal Club verhindert sind, schreiben Sie eine ausformulierte Version für beide Texte als Ersatzleistung und laden diese spätestens drei Tage nach dem Kurstag bis 23:59 Uhr im LMS hoch (Mindestumfang 300 Wörter; Fristverlängerung gegen Vorlage eines ärztlichen Attests). Inhaltlich sollten mindestens drei Unterschiede und Gemeinsamkeiten sowie jeweils ein Kritikpunkt an den Publikationen schriftlich festgehalten werden.
+  - mindestens 300 Wörter (Wortzahl bitte unter dem Text festhalten)
+  -	Abgabe via LMS
+  - Abgabefrist: spätestens 3 Tage nach der Sitzung um 23:59 Uhr
+
+### Schriftliche Hausarbeit (benotet)
+
+Im Rahmen der Hausarbeit soll eines der Themen der Lehrveranstaltung vertieft werden. Für die Hausarbeit formulieren Sie selbstständig eine zentrale Problemstellung, die Sie mit Hilfe von wissenschaftlicher Literatur beantworten. Bitte achten Sie darauf, dass die Fragestellung so gewählt ist, dass sie auf 10-12 Seiten hinreichend ausführlich beantwortet werden kann. Bei Bedarf können Sprechstundentermine vereinbart werden, um Ihre Problemstellung und die vorläufige Gliederung zu besprechen.
+
+Weitere Informationen zur Hausarbeit finden Sie auf [der hier verlinkten Seite](exercises/term_paper.html) und werden in der letzten Sitzung des Semesters besprochen.

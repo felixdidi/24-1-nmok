@@ -1,0 +1,47 @@
+---
+title: "Informationen zur Hausarbeit"
+author: "Felix Dietrich"
+categories:
+  - "BA Neue Medien / Online-Kommunikation KF/BF C"
+  - "Sose 2024"
+# csl: "../bib/apa.csl"
+# bibliography: "../bib/24-1-nmok.bib"
+# suppress-bibliography: true
+# link-citations: false
+---
+
+## Inhalt
+
+Im Rahmen der Hausarbeit soll eines der Themen der Lehrveranstaltung vertieft werden. Für die Hausarbeit formulieren Sie selbstständig eine zentrale Problemstellung, die Sie mit Hilfe von wissenschaftlicher Literatur beantworten. Bitte achten Sie darauf, dass die Fragestellung so gewählt ist, dass sie auf 10-12 Seiten hinreichend ausführlich beantwortet werden kann. Bei Bedarf können Sprechstundentermine vereinbart werden, um Ihre Problemstellung und die vorläufige Gliederung zu besprechen.
+
+Weitere Informationen zur Hausarbeit erfolgen in der letzten Sitzung des Semesters.
+
+## Information für Studierende im Beifach Publizistik
+
+Beifachstudierende können auswählen, ob sie die Modulhausarbeit in diesem Kurs oder im Seminar "Mediennutzungsforschung" schreiben wollen.
+
+## Umfang
+
+- 10-12 Seiten Text, exkl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis etc.
+
+## Formatierung
+
+- Schriftart: Times New Roman (Schriftgröße 12) oder Arial (Schriftgröße 11)
+- 1,5-facher Zeilenabstand
+- Blocksatz, blocksatzbedingte Leerstellen innerhalb der Zeilen sind durch automatische Silbentrennung zu vermeiden
+- Seitenränder: Abstand zum Seitenrand je 2,5 cm nach oben und unten, 3,5 cm nach links und 3 cm nach rechts
+- Zitation nach APA 7 (siehe [APA Website](https://www.apastyle.org) oder Kurzanleitung bereitgestellt im LMS)
+  - Direkte und indirekte Zitate erfolgen ausschließlich als Kurzbelege nach APA (keine Fußnotenbelege)
+  - Für das Anlegen einer Literaturliste nach APA hilfreich: Literatursoftware Citavi oder Zotero (per ZDV-Apps dem eigenen Uni-Account zuweisen)
+  - Fußnoten in Schriftgröße 10 am jeweiligen Seitenende können sparsam für Ergänzungen und Hintergrundinformationen eingesetzt werden
+  - Weitere Informationen zur Anforderung an die Hausarbeiten entnehmen Sie bitte dem [Leitfaden zur Erstellung von Seminararbeiten](https://www.studium.ifp.uni-mainz.de/files/2021/11/Leitfaden-Seminararbeiten_20211103.pdf)
+
+## Plagiate
+
+- Der Hausarbeit muss am Ende eine unterschriebene eidesstattliche Erklärung über das eigenständige Anfertigen der Arbeit beiliegen. Andernfalls kann die Arbeit nicht als Prüfungsleistung anerkannt werden. Eine Vorlage gemäß der Prüfungsordnung finden Sie im LMS.
+- Um Plagiate zu vermeiden, belegen Sie alle (prinzipiell überprüfbaren) Tatsachenbehauptungen mit wissenschaftlicher Literatur. Weiterführende Interpretationen, Theorietransfer und eigene Gedanken bedürfen keines Belegs. Sie können und sollten diese Eigenleistungen jedoch mit Literatur und empirischen Befunden untermauern, die den jeweiligen Gedankengang unterstützen.
+
+## Abgabe der Hausarbeit
+
+- Frist: 02.09.2024, 12:00 Uhr (keine Verlängerung ohne Attest möglich)
+- Abgabe einer elektronischen Version (PDF) über die Abgabefunktion im LMS ("Abgabe der Hausarbeit")

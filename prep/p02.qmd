@@ -1,0 +1,26 @@
+---
+title: "Wöchentliche Vorbereitung auf die Seminar-Sitzung"
+author: "Felix Dietrich"
+categories:
+  - "BA Neue Medien / Online-Kommunikation KF/BF C"
+  - "Sose 2024"
+csl: "../bib/apa-cv.csl"
+bibliography: "../bib/24-1-nmok.bib"
+suppress-bibliography: true
+link-citations: false
+---
+
+## Leseaufgabe
+
+Um sich auf die nächste Sitzung vorzubereiten, **lesen Sie bitte das folgende Paper** (PDF im LMS):
+
+@tamboriniNarrativeEnjoymentAppreciation2021
+
+Machen Sie sich während der Lektüre **Notizen zu den folgenden Fragen**. Sie sollten in der Lage sein, diese **Fragen in der Sitzung zu beantworten** und **mit Ihren Kommiliton:innen darüber zu diskutieren**.
+
+- Wie kann man *enjoyment* und *appreciation* definieren?
+- Was bedeutet *dual-process logic*?
+- Welches sind sozial ausgerichtete, welche auf das Selbst ausgerichtete Motivationen für die Mediennutzung?
+- Wie hängen diese Motivationen mit dem enjoyment und appreciation von Narrativen zusammen?
+- Kann man diese Logik auch auf Social Media-Inhalte (z.B. Reels) anwenden?
+- Überlegen Sie sich ein Beispiel!
