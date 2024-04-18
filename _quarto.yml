@@ -38,5 +38,5 @@ format:
 theme:
   light: [cosmo, theme.scss]
   
-# execute:
-  # freeze: auto
+execute:
+  freeze: auto
