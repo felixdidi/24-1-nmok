@@ -1,0 +1,18 @@
+---
+title: "Abgabe 02"
+author: "Felix Dietrich"
+categories:
+  - "BA Neue Medien / Online-Kommunikation KF/BF C"
+  - "Sose 2024"
+# csl: "../bib/apa.csl"
+# bibliography: "../bib/24-1-nmok.bib"
+# suppress-bibliography: true
+# link-citations: false
+---
+
+## Wöchentliche Sammlung von eigenen Unterhaltungserfahrungen
+
+Im Laufe des Semesters sammeln wir zur Diskussion in den Sitzungen Ihre persönlichen Erfahrungen bei der Nutzung von Unterhaltungsmedien auf algorithmisch kuratierten Plattformen (z.B. YouTube, Netflix, Spotify, TikTok). Sobald Sie im Zuge Ihrer eigenen Mediennutzung eine Erfahrung machen, die mit den im Kurs besprochenen Phänomenen und/oder der Rolle von algorithmischer Kuratierung in diesem Kontext kongruent (oder inkongruent) sind, machen Sie bitte einen Screenshot von der Nutzungssituation. Anschließend reichen Sie den Screenshot mit einer kurzen Beschreibung, weshalb diese Situation für Sie relevant erschien, über den folgenden Fragebogen ein: [https://www.soscisurvey.de/24-1-nmok/](https://www.soscisurvey.de/24-1-nmok/). Alle Einreichungen über diesen Fragebogen sind anonym. Zur Kontrolle der Einreichung erhalten Sie am Ende des Fragebogens einen personalisierten Code, den Sie per Mail an [felix.dietrich@uni-mainz.de](mailto:felix.dietrich@uni-mainz.de) senden. Im Laufe des Semesters dürfen Sie in maximal zwei Wochen keinen Code einsenden.
+
+- Einreichung des Bestätigungscodes via Mail an den Dozenten
+- Abgabefrist des Codes: Spätestens bis zum 01.05. um 23:59 Uhr

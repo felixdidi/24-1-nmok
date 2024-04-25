@@ -5,8 +5,8 @@ institute: "<br><br>Johannes Gutenberg-Universität Mainz<br>BA Neue Medien / On
 author: "Felix Dietrich"
 logo: img/logo.png
 # footer: "CCS | 23-1 | Felix Dietrich"
-#bibliography: "bib/24-1-ccs.bib"
-# csl: "bib/apa.csl"
+bibliography: "bib/24-1-nmok.bib"
+csl: "bib/apa.csl"
 format: revealjs
 css: fonts.css
 ---
@@ -254,6 +254,271 @@ Soweit Fragen?
 :::center-text
 <https://felixdidi.github.io/24-1-nmok>
 :::
+
+# Sitzung 02: Warum wir Mediennutzung unterhaltsam finden
+
+![](https://assets.amuniversal.com/880fb220deb801317193005056a9545d)
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@tamboriniNarrativeEnjoymentAppreciation2021
+:::
+
+## Was machen wir heute
+
+- Diskussion von @tamboriniNarrativeEnjoymentAppreciation2021
+- Diskussion der persönlichen Medienerfahrungen
+- Offene Diskussion
+
+## Diskussion von @tamboriniNarrativeEnjoymentAppreciation2021
+
+## The narrative enjoyment and appreciation rationale
+
+@tamboriniNarrativeEnjoymentAppreciation2021
+
+:::aside
+Tamborini, R., Grady, S. M., Baldwin, J., McClaran, N., & Lewis, R. (2021). The narrative enjoyment and appreciation rationale. In P. Vorderer & C. Klimmt (Eds.), *The Oxford Handbook of Entertainment Theory* (pp. 44–62). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.3
+:::
+
+::::columns
+:::column
+<br><center>
+**Socially oriented motivations**
+<hr></hr>
+</center>
+
+- *care* (valuing compassion and reviling harm to others)
+- *fairness* (related to the desire for justice, reciprocity, and the punishment of cheaters)
+- *ingroup loyalty* (bias favoring the common good of group members and disfavoring rival outsiders)
+- *respecting authority* (adhering to social dominance hierarchies and traditions)
+- *purity* (the motivation to maintain a wholesome lifestyle free of social contamination)
+:::
+
+:::column
+<br><center>
+**Self-oriented motivations**
+<hr></hr>
+</center>
+
+- *competence* (the need to be recognized for one’s personal skills and achievements)
+- *relatedness* (the desire to feel close to and connected with others)
+- *autonomy* (a desire to feel in control of one’s life and choices)
+- *hedonism* (the desire for physical pleasure)
+- *security* (the need for stability and personal safety)
+- *power* (an aspiration to control and influence resources and others)
+:::
+::::
+
+## Selbstbericht-Messung für Enjoyment und Appreciation
+
+@schneiderFactorialValidityMeasurement2019
+
+| Dimension    | Item Content                 | English                                           | German                                                  |
+|--------------|------------------------------|---------------------------------------------------|---------------------------------------------------------|
+| Appreciation | Meaningful                   | I found this movie to be very meaningful.         | Der Film hatte für mich eine tiefere Bedeutung.         |
+| Appreciation | Thought-provoking            | The movie was thought provoking.                  | Der Film hat mich zum Nachdenken angeregt.              |
+| Appreciation | Being moved                  | I was moved by this movie.                        | Dieser Film hat mich bewegt.                            |
+| Fun          | Fun                          | It was fun for me to watch this movie.            | Es hat mir Spaß gemacht, diesen Film anzuschauen.       |
+| Fun          | Good time                    | I had a good time watching this movie.            | Ich hatte beim Anschauen dieses Films eine gute Zeit.   |
+| Fun          | Entertaining                 | The movie was entertaining.                       | Der Film war unterhaltsam.                              |
+:::aside
+Schneider, F. M., Bartsch, A., & Oliver, M. B. (2019). Factorial validity and measurement invariance of the appreciation, fun, and suspense scales across US-American and German samples. *Journal of Media Psychology, 31*(3), 149–156. https://doi.org/10.1027/1864-1105/a000236
+:::
+
+## Sind soziale Medien schlecht für die psychische Gesundheit (von Jugendlichen)?
+
+::::columns
+:::{.column width="33%"}
+![](img/02/wb1.png)
+:::
+:::{.column width="33%"}
+![](img/02/wb2.png)
+:::
+:::{.column width="33%"}
+![](img/02/wb3.png)
+:::
+::::
+
+## Was ist (digitales) psychologisches Wohlbefinden?
+
+:::aside
+Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials: A review of research on hedonic and eudaimonic well-being. *Annual Review of Psychology, 52*, 141–166. https://doi.org/10.1146/annurev.psych.52.1.141
+:::
+
+
+>“Optimal psychological functioning and experience”
+>
+> @ryanHappinessHumanPotentials2001 [p. 142]
+
+:::fragment
+
+:::columns
+:::column
+<br><center>
+**Hedonia**
+<hr></hr>
+</center>
+
+- Fokus auf Glück und Lebenszufriedenheit
+- Erreichen von Vergnügen (positiver Affekt)
+- Schmerzvermeidung (Vermeidung von negativem Affekt)
+- Manchmal auch subjektives Wohlbefinden genannt
+:::
+
+:::column
+<br><center>
+**Eudaimonia**
+<hr></hr>
+</center>
+
+- Fokus auf volle Funktionsfähigkeit
+- Meaning (Bedeutsamkeit)
+- Selbstverwirklichung, Selbstverwirklichung
+:::
+::::
+
+:::
+
+## Zwei-Kontinua-Modelle der psychischen Gesundheit
+
+:::aside
+Meier, A., & Reinecke, L. (2021). Computer-mediated communication, social media, and mental health: A conceptual and empirical meta-review. *Communication Research, 48*(8), 1182–1209. https://doi.org/10.1177/0093650220958224
+:::
+
+im Zusammenhang mit computervermittelter Kommunikation, siehe @meierComputermediatedCommunicationSocial2021
+
+![](img/02/two_continua_mh.png){height="400px"}
+
+## Diskussion der persönlichen Medienerfahrungen
+
+***
+
+::::columns
+:::column
+![](img/02/s1.png){height="500px"}
+:::
+
+:::column
+> Videos wie diese forden auf Tiktok zu Interaktion auf, wodurch der Algorithmus mehr solche Videos (Aktivistische Videos zu Notsituationen weltweit) vorschlägt, wodurch ich auch mehr interagiere. Die meisten Videos auf meiner fyp bestehen deshalb aus solchen.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s2.jpg){height="500px"}
+:::
+
+:::column
+> Die gezeigte, sehr bekannte Kneipe befindet sich in Mainz und wurde mir ohne vorherige Berrügungspunkte ausgespielt.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s3.png){height="500px"}
+:::
+
+:::column
+> Meine auffälligste Medienerfahrung der letzten Woche dreht sich um den Algorithmus von Instagram , insbesondere um die Startseite. Ich wollte mir neue Schuhe kaufen und bin in den letzten Tagen immer mal wieder länger an Beiträgen mit den abgebildeten Sneakers hängen geblieben. Seitdem sieht meine Instagram Startseite dementsprechend aus. Auffällig ist auch, dass es genau die zwei Arten von Schuhen sind, die ich mir angeschaut habe, in allen Varianten, Farben und Formen. Ich bekomme auch Werbung für diese Schuhe angezeigt, wenn ich Storys meiner Freunde angucke.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s4.jpg){height="500px"}
+:::
+
+:::column
+> In letzter Zeit habe ich mich intensiv mit dem Tauchen und der Welt der Meerestiere beschäftigt, da ich plane, meinen Tauchschein zu machen. Ich habe zahlreiche Dokumentationen über die Bewohner der Meere wie Wale, Haie und Delfine angesehen. Seitdem ist meine gesamte Instagram-Startseite voll mit Bildern aus der Unterwasserwelt und vom Tauchen.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s5.png){height="500px"}
+:::
+
+:::column
+> Ohne, dass ich auf IG oder einer Suchplattform eine Suche gestartet habe, die zu dem Thema Misantropie oder dem Bestattungsberuf passt fand ich dieses Bild als Vorschlag in meinem Feed, nachdem ich mit Freund*innen eine Stand-Up Comedy besucht und mich in der Pause mit ihnen über den Beruf in der Bestattung Unterhalten hatte. Wir redeten darüber, dass es im Beruf ja so ist, dass man sich alltäglich mit dem Tod beschäftigt. Wir haben uns auch über Menschen aufgeregt.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s6.png){height="500px"}
+:::
+
+:::column
+> Da ich mich selbst vegan ernähre und mich deshalb schon oft rechtfertigen musste, haben mich die hier dargestellten Argumentationen von nicht-Veganern, zum schmunzeln gebracht und einige Argumente sind mir selbst schon mal bei Diskussionen begegnet.
+
+:::
+::::
+
+***
+
+> Ich habe mich für eine Nutzungserfahrung auf Spotify als Nutzungserlebins diese Woche entschieden. Vorher hab ich mir darüber nie Gedanken gemacht bzw. ist es mir nicht aufgefallen, dass sobald meine Playlist einmal durchgelaufen ist, oben bei Spotify „Wir spielen für dich empfohlene Songs" steht. Eigentlich logisch, dass die Shuffle Funktion mir nur mit Hilfe eines Algorithmus, für mich geeignete Musik anspült, dennoch hab ich mir das nie ganz bewusst gemacht, dass auch hier ein Algorithmus mein Nutzungserleben verbessert. Erstrecht, kennt der Spotify Algorithmus mich anscheinend auch ziemlich gut, denn die empfohlenen Songs treffen in der Regel immer meinen Geschmack.
+
+> Ich dachte, dass der "Mix der Woche" bei Spotify einem eine Playlist basierend auf der Musik, die man selbst hört eine Playlist erstellt. Also, dass sich der Algorithmus merkt, welche Künstler, Titel, Genres etc. ich höre und mir darauf basierend eine Playlist erstellt. Letzte und diese Woche war leider kein einziger Song dabei der meinem Geschmack entspricht.
+
+***
+
+> Der vorliegende Screenshot zeigt ein Reel bei Instagram, welches nicht den angestrebten bzw. gewünschten Inhalten entspricht. Es handelt sich dabei um ein Video, welches in seiner Caption auf einen Kurs verweist. Sowohl dieser als auch das Video selbst machen den Anschein Kunden bzw. "Opfer" für ein Schneeballsystem zu suchen und erscheinen hochgradig unseriös. Das einspielen des Videos durch den Algorithmus ist daher von Interesse, da ähnliche Inhalte bereits mehrfach durch die Funktion "kein Interesse" gekennzeichent wurden. Diese Funkion scheint daher ihr Ziel, den individuellen Algorithmus zu verbessern und anzupassen, zu verfehlen und schon fast gegenteilig zu arbeiten.
+
+***
+
+> Seit ich mir auf Youtube gelegentlich Martial Arts-Tutorials angucke, bekomme ich, hauptsächlich in der Shorts Funktion, immer mehr Content angezeigt, der überhaupt nicht mit meinen Präferenzen übereinstimmt, der aber entfernt mit Kampfsport zu tun hat oder von einer Bubble konsumiert wird, die sich auch für Kampfsport interessiert. Aufgefallen sind mir hauptsächlich Podcasts von Akteuren, die auch im Martial-Arts-Kontext arbeiten, Muskeltrainings-Content aber auch Entrepreneur-Content, von dem ich glaube, dass er viele an Kampfsport interessierte Männer anspricht. Weil ich daran überhaupt nicht interessiert bin, versuche ich meinen Algorhythmus dahingehend zu manipulieren, mir solche Videos nicht mehr vorzuschlagen, indem ich sie blockiere.
+
+***
+
+::::columns
+:::column
+![](img/02/s7.jpg){height="500px"}
+:::
+
+:::column
+> Ich habe mir vor vier Jahren einen Mini Cooper gekauft und bin in letzter Zeit am überlegen, ob ich diesen verkaufen soll. Auf der Plattform mobile.de habe ich, um einen ungefähren Verkaufspreis zu ermitteln, nach vergleichbaren Angeboten gesucht. Seit ich dies getan habe, bekomme ich auf Instagram immer wieder Werbung von Mini Deutschland in den Feed gespült, obwohl ich der Seite nicht folge und mich nicht erinnern kann, jemals etwas von Mini geliked zu haben.
+
+:::
+::::
+
+***
+
+::::columns
+:::column
+![](img/02/s8.png){height="500px"}
+:::
+
+:::column
+> Ein Tag vorher habe ich Meloneneis mit meinen Mitbewohnern gegessen und auf einmal taucht es auf meiner Startseite auf.
+
+:::
+::::
+
+***
+
+![](img/02/s9.jpg)
+
+> Der Algorithmus hat erkannt, dass ich das Spiel "Portal" und Animationsvideos mag und dementsprechend dazu Videos auf YouTube schaue.Ich habe in der letzten Woche Videos aus beiden Themengebieten angeclickt, weswegen ich solche Empfehlungen auf meinem YouTube-Homefeed sehe.
+
+## Offene Diskussion
+
 
 # Literaturangaben
 
