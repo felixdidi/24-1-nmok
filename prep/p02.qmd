@@ -24,3 +24,66 @@ Machen Sie sich während der Lektüre **Notizen zu den folgenden Fragen**. Sie s
 - Wie hängen diese Motivationen mit dem enjoyment und appreciation von Narrativen zusammen?
 - Kann man diese Logik auch auf Social Media-Inhalte (z.B. Reels) anwenden?
 - Überlegen Sie sich ein Beispiel!
+
+## Besprechung in der Sitzung
+
+### Wie kann man enjoyment und appreciation definieren?
+
+Beide sind Formen von positivem Rezeptionserleben
+
+- man kann unterscheiden zwischen affektbasierten und funktionalen Perspektiven auf Unterhaltungserleben
+- "Simply put, positive evaluations resulting from  fast, intuitive processing are labeled enjoyment, whereas those resulting from slower, deliberative processes are called appreciation"
+  
+**Typische Selbstberichtmessung für Enjoyment und Appreciation**
+
+| Dimension    | Item Content                 | English                                           | German                                                  |
+|--------------|------------------------------|---------------------------------------------------|---------------------------------------------------------|
+| Appreciation | Meaningful                   | I found this movie to be very meaningful.         | Der Film hatte für mich eine tiefere Bedeutung.         |
+| Appreciation | Thought-provoking            | The movie was thought provoking.                  | Der Film hat mich zum Nachdenken angeregt.              |
+| Appreciation | Being moved                  | I was moved by this movie.                        | Dieser Film hat mich bewegt.                            |
+| Fun          | Fun                          | It was fun for me to watch this movie.            | Es hat mir Spaß gemacht, diesen Film anzuschauen.       |
+| Fun          | Good time                    | I had a good time watching this movie.            | Ich hatte beim Anschauen dieses Films eine gute Zeit.   |
+| Fun          | Entertaining                 | The movie was entertaining.                       | Der Film war unterhaltsam.                              |
+
+@schneiderFactorialValidityMeasurement2019
+
+### Was bedeutet dual-process logic?
+
+Intuitive, automatische Informationsverarbeitung (System 1) vs. bewusste, überlegte Informationsverarbeitung (System 2).
+
+System 1 arbeitet schnell und ohne bewusste Anstrengung und basiert oft auf heuristischen und assoziativen Prozessen, während System 2 langsamer, kontrollierter und analytischer arbeitet und komplexere Entscheidungs- und Denkaufgaben bewältigt. Man geht davon aus, dass diese Systeme einen grundlegenden Einfluss darauf haben, wie wir Informationen verarbeiten, Entscheidungen treffen und Probleme lösen, wobei System 1 anfälliger für kognitive Verzerrungen und System 2 logischer und regelbasierter ist.
+
+
+### Welches sind sozial ausgerichtete, welche auf das Selbst ausgerichtete Motivationen für die Mediennutzung?
+
+**Socially oriented motivations**
+
+| Motivations |
+|-------------|
+| *care* (valuing compassion and reviling harm to others) |
+| *fairness* (related to the desire for justice, reciprocity, and the punishment of cheaters) |
+| *ingroup loyalty* (bias favoring the common good of group members and disfavoring rival outsiders) |
+| *respecting authority* (adhering to social dominance hierarchies and traditions) |
+| *purity* (the motivation to maintain a wholesome lifestyle free of social contamination) |
+
+**Self-oriented motivations**
+
+| Motivations |
+|-------------|
+| *competence* (the need to be recognized for one’s personal skills and achievements) |
+| *relatedness* (the desire to feel close to and connected with others) |
+| *autonomy* (a desire to feel in control of one’s life and choices) |
+| *hedonism* (the desire for physical pleasure) |
+| *security* (the need for stability and personal safety) |
+| *power* (an aspiration to control and influence resources and others) |
+
+### Wie hängen diese Motivationen mit dem enjoyment und appreciation von Narrativen zusammen?
+
+"Three message features are critical in determining which system governs response:
+
+- (1) the absence or presence of intuition conflict,
+- (2) the extent to which intuitions are made salient in the narrative (i.e., those emphasized in the plot), and
+- (3) the  satisfaction of those salient intuitions, where satisfaction refers to reward for acts that conform to intuitions, and thwarting refers to the inverse of this."
+
+"First, when all salient intuitive needs are satisfied, entertainment is intuitively processed and positively experienced, free from any thought that might challenge this appraisal. The NEAR calls this enjoyment. Second, when the most salient intuitive needs but not all salient intuitive needs are satisfied, entertainment is deliberatively processed and positively experienced, but positive appraisal comes with uncertainty. The NEAR refers to this as appreciation."
+
