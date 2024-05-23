@@ -12,16 +12,16 @@ categories:
 
 ## Einmalige schriftliche Abgabe
 
-Um das Lernziel der Synthese (Themenblock: Unterhaltungserleben) zu erreichen und diese Fähigkeit für die Hausarbeit zu stärken, ist ein wissenschaftliches Essay Teil der Studienleistung. Auf Basis der Literatur und Diskussionen aus unseren Sitzungen verfassen Sie einen kurzen Aufsatz. In diesem dürfen Sie zitieren, aber auch frei Ideen und Kritikpunkte einbringen, die Sie sich überlegt oder im Kurs diskutiert haben. Die Essays können in Ihrer Form an den Diskussionsteil einer Hausarbeit angelehnt sein, aber auch eher theoretische oder praktische Inhalte diskutieren. Einige Leitfragen, die Sie bearbeiten können, finden Sie im LMS bzw. werden in den Sitzungen besprochen. Formale Hinweise:
+Um das Lernziel der Synthese (Themenblock: Unterhaltungserleben) zu erreichen und diese Fähigkeit für die Hausarbeit zu stärken, ist ein wissenschaftliches Essay Teil der Studienleistung. Auf Basis der Literatur und Diskussionen aus unseren Sitzungen verfassen Sie einen kurzen Aufsatz. In diesem dürfen Sie zitieren, aber auch frei Ideen und Kritikpunkte einbringen, die Sie sich überlegt oder im Kurs diskutiert haben. Die Essays können in Ihrer Form an den Diskussionsteil einer Hausarbeit angelehnt sein, aber auch eher theoretische oder praktische Inhalte diskutieren. Einige Leitfragen, die Sie bearbeiten können, finden Sie unten bzw. werden in den Sitzungen besprochen. Formale Hinweise:
 
 -	600-800 Wörter (Wortzahl bitte unter dem Text festhalten)
 -	Fließtextformatierung wie Hausarbeit (siehe [Informationen zur Hausarbeit](term_paper.html))
 -	Abgabe via LMS
 - Abgabefrist: 03.06.2024 um 23:59 Uhr
 
-## Wöchentliche Sammlung von eigenen Unterhaltungserfahrungen
+### Mögliche Leitfragen
 
-Im Laufe des Semesters sammeln wir zur Diskussion in den Sitzungen Ihre persönlichen Erfahrungen bei der Nutzung von Unterhaltungsmedien auf algorithmisch kuratierten Plattformen (z.B. YouTube, Netflix, Spotify, TikTok). Sobald Sie im Zuge Ihrer eigenen Mediennutzung eine Erfahrung machen, die mit den im Kurs besprochenen Phänomenen und/oder der Rolle von algorithmischer Kuratierung in diesem Kontext kongruent (oder inkongruent) sind, machen Sie bitte einen Screenshot von der Nutzungssituation. Anschließend reichen Sie den Screenshot mit einer kurzen Beschreibung, weshalb diese Situation für Sie relevant erschien, über den folgenden Fragebogen ein: [https://www.soscisurvey.de/24-1-nmok/](https://www.soscisurvey.de/24-1-nmok/). Alle Einreichungen über diesen Fragebogen sind anonym. Zur Kontrolle der Einreichung erhalten Sie am Ende des Fragebogens einen personalisierten Code, den Sie per Mail an [felix.dietrich@uni-mainz.de](mailto:felix.dietrich@uni-mainz.de) senden. Im Laufe des Semesters dürfen Sie in maximal zwei Wochen keinen Code einsenden.
-
-- Einreichung des Bestätigungscodes via Mail an den Dozenten
-- Abgabefrist des Codes: Spätestens bis zum Tag vor der nächsten Sitzung um 23:59 Uhr
+- Warum sollte man sich mit Unterhaltungserfahrungen von Mediennutzer:innen in algorithmisch kuratierten Umgebungen aus wissenschatlicher Perspektive beschäftigen?
+- Was macht Medieninhalte (in algorithmisch kuratierten Umgebungen) besonders unterhaltsam? Wo sind Grenzen der Unterhaltung?
+- Wie können wir "Relatable Content" unterhaltungstheoretisch beschreiben?
+- Wie könnte gute Forschung zu Unterhaltungserfahrungen in algorithmisch kuratierten Umgebungen aussehen? Was wären Hypothesen, die man empirisch untersuchen könnte/sollte?
