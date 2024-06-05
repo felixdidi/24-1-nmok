@@ -823,5 +823,34 @@ N2 (Muschel)
 
 ## Offene Diskussion & Fragen
 
+
+
+# Sitzung 08: Warum Medienunterhaltung in algorithmisch kuratierten Umgebungen anders ist
+
+![](https://assets.amuniversal.com/7b289130df960131725e005056a9545d)
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@andersenArchivingOrderingSearching2018; @thorsonCuratedFlowsFramework2016
+:::
+
+## Was machen wir heute
+
+- Journal Club zu den beiden Texten
+- Offene Diskussion & Fragen
+
+<!-- # Sitzung 09: Wie Medienunterhaltung in algorithmisch kuratierten Umgebungen anders ist -->
+
+<!-- ![](https://assets.amuniversal.com/9882d8f0deba01317193005056a9545d) -->
+
+<!-- <br> -->
+
+<!-- :::callout-warning -->
+<!-- ## Ressourcen für diese Sitzung -->
+
+<!-- ::: -->
+
 # Literaturangaben
 
