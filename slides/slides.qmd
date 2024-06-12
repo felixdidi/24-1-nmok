@@ -841,16 +841,21 @@ N2 (Muschel)
 - Journal Club zu den beiden Texten
 - Offene Diskussion & Fragen
 
-<!-- # Sitzung 09: Wie Medienunterhaltung in algorithmisch kuratierten Umgebungen anders ist -->
+# Sitzung 09: Wie Medienunterhaltung in algorithmisch kuratierten Umgebungen anders ist
 
-<!-- ![](https://assets.amuniversal.com/9882d8f0deba01317193005056a9545d) -->
+![](https://assets.amuniversal.com/9882d8f0deba01317193005056a9545d)
 
-<!-- <br> -->
+<br>
 
-<!-- :::callout-warning -->
-<!-- ## Ressourcen für diese Sitzung -->
+:::callout-warning
+## Ressourcen für diese Sitzung
+@egScopingReviewPersonalized2023; @kangAIAgencyVs2022
+:::
 
-<!-- ::: -->
+## Was machen wir heute
+
+- Journal Club zu den beiden Texten
+- Offene Diskussion & Fragen
 
 # Literaturangaben
 

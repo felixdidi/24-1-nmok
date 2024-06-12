@@ -1,0 +1,21 @@
+---
+title: "Abgabe 10"
+author: "Felix Dietrich"
+categories:
+  - "BA Neue Medien / Online-Kommunikation KF/BF C"
+  - "Sose 2024"
+# csl: "../bib/apa.csl"
+# bibliography: "../bib/24-1-nmok.bib"
+# suppress-bibliography: true
+# link-citations: false
+---
+
+## Abgabe von Stichpunkten zum Journal Club
+
+In den "Journal Club"-Sitzungen (Themenblock: Algorithmische Kuratierung) liest jeweils die Hälfte des Kurses Text A und die andere Hälfte Text B (Einteilung siehe “Vorbereitung” zur jeweiligen Sitzung). In den Sitzungen tauschen Sie sich über beide Texte aus. Das Ergebnis Ihres Dialogs halten Sie gemeinsam mit Ihren Diskussionspartner:innen während der Sitzung stichpunktartig fest und laden diese im LMS unter dem jeweiligen Abschnitt hoch. Die Studienleistung kann also vollständig während der Seminarsitzung erbracht werden. Wenn Sie zum jeweiligen Journal Club verhindert sind, schreiben Sie eine ausformulierte Version für beide Texte als Ersatzleistung und laden diese spätestens drei Tage nach dem Kurstag bis 23:59 Uhr im LMS hoch (Mindestumfang 300 Wörter; Fristverlängerung gegen Vorlage eines ärztlichen Attests).
+
+**Inhaltlich sollten Sie sich mit den Leitfragen der jeweiligen Sitzung auseinandersetzen. Diese finden Sie im Abschnitt "Vorbereitung" zu jeweiligen Sitzung.**
+
+- mindestens 300 Wörter (Wortzahl bitte unter dem Text festhalten)
+- Abgabe via LMS
+- Abgabefrist: spätestens 23. Juni um 23:59 Uhr
