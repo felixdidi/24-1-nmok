@@ -920,6 +920,44 @@ Andersen, J. (2018). Archiving, ordering, and searching: Search engines, algorit
 
 ## Offene Diskussion & Fragen
 
+# Sitzung 10: Human Agency: Wie Menschen sich auf algorithmisch kuratierten Plattformen unterhalten
+
+![](https://assets.amuniversal.com/7aa96020df950131725e005056a9545d)
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@bhandariWhyEveryoneTikTok2022; @leeAlgorithmicCrystalConceptualizing2022
+:::
+
+## Was machen wir heute
+
+- Recap der letzten Sitzung
+- Journal Club zu den beiden Texten
+- Offene Diskussion & Fragen
+
+## 
+
+::::columns
+:::column
+<br><br>
+![](img/10/machine_vs_human.jpg)
+:::
+
+:::column
+:::r-fit-text
+<br>
+<br><br>Machine Autonomy
+<br>vs.
+<br>Human Autonomy
+:::
+:::
+::::
+
+## Journal Club zu den beiden Texten
+
+## Offene Diskussion & Fragen
 
 # Literaturangaben
 
