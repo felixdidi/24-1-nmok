@@ -32,14 +32,14 @@
     "href": "prep/p12.html",
     "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
     "section": "",
-    "text": "Um sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte eines der folgenden Paper (PDF im LMS):\nNachnamen A-H:\n@\nNachnamen I-Z:\n@\nMachen Sie sich während der Lektüre Notizen zu den folgenden Leitfragen. Sie sollten in der Lage sein, darüber in der Sitzung mit Ihren Kommiliton:innen zu diskutieren."
+    "text": "Um sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte eines der folgenden Paper (PDF im LMS):\nNachnamen A-H:\nDietrich, F., Arenz, A., & Reinecke, L. (2024). What Constitutes Experiences of Autonomy in Digital Technology Use? A (Computational) Scoping Review through the Lens of Self-Determination Theory. Manuscript under review.\nNachnamen I-Z:\nHutmacher, F., & Appel, M. (2023). The Psychology of Personalization in Digital Environments: From Motivation to Well-Being – a Theoretical Integration. Review of General Psychology, 27(1), 26–40. https://doi.org/10.1177/10892680221105663\nMachen Sie sich während der Lektüre Notizen zu den folgenden Leitfragen. Sie sollten in der Lage sein, darüber in der Sitzung mit Ihren Kommiliton:innen zu diskutieren.\n“personalization in digital environments can ultimately have both positive and negative influences on the satisfaction of our basic needs for autonomy, competence, and relatedness.” (Hutmacher & Appel, 2023, p. 29)\n\nWie lassen sich diese paradoxen Zusammenhänge erklären?\nWelche Aspekte bennenen Hutmacher & Appel (2023) sowie Dietrich et al. (under review), die zu einer “Auflösung” dieses paradoxen Verhältnisses beitragen können?\nWie können wir diese Überlegungen mit der Unterhaltungstheorie verknüpfen?\nWelche Auswirkungen kann hat dies auf das psychologische Wohlbefinden von Mediennutzer:innen?\nÜberlegen Sie sich ein Mediennutzungsbeispiel, anhand dessen Sie die zuvor benannten Aspekte illustrieren können."
   },
   {
     "objectID": "prep/p12.html#leseaufgabe",
     "href": "prep/p12.html#leseaufgabe",
     "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
     "section": "",
-    "text": "Um sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte eines der folgenden Paper (PDF im LMS):\nNachnamen A-H:\n@\nNachnamen I-Z:\n@\nMachen Sie sich während der Lektüre Notizen zu den folgenden Leitfragen. Sie sollten in der Lage sein, darüber in der Sitzung mit Ihren Kommiliton:innen zu diskutieren."
+    "text": "Um sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte eines der folgenden Paper (PDF im LMS):\nNachnamen A-H:\nDietrich, F., Arenz, A., & Reinecke, L. (2024). What Constitutes Experiences of Autonomy in Digital Technology Use? A (Computational) Scoping Review through the Lens of Self-Determination Theory. Manuscript under review.\nNachnamen I-Z:\nHutmacher, F., & Appel, M. (2023). The Psychology of Personalization in Digital Environments: From Motivation to Well-Being – a Theoretical Integration. Review of General Psychology, 27(1), 26–40. https://doi.org/10.1177/10892680221105663\nMachen Sie sich während der Lektüre Notizen zu den folgenden Leitfragen. Sie sollten in der Lage sein, darüber in der Sitzung mit Ihren Kommiliton:innen zu diskutieren.\n“personalization in digital environments can ultimately have both positive and negative influences on the satisfaction of our basic needs for autonomy, competence, and relatedness.” (Hutmacher & Appel, 2023, p. 29)\n\nWie lassen sich diese paradoxen Zusammenhänge erklären?\nWelche Aspekte bennenen Hutmacher & Appel (2023) sowie Dietrich et al. (under review), die zu einer “Auflösung” dieses paradoxen Verhältnisses beitragen können?\nWie können wir diese Überlegungen mit der Unterhaltungstheorie verknüpfen?\nWelche Auswirkungen kann hat dies auf das psychologische Wohlbefinden von Mediennutzer:innen?\nÜberlegen Sie sich ein Mediennutzungsbeispiel, anhand dessen Sie die zuvor benannten Aspekte illustrieren können."
   },
   {
     "objectID": "prep/p13.html",
@@ -581,6 +581,149 @@
   {
     "objectID": "slides/slides.html#offene-diskussion-fragen-4",
     "href": "slides/slides.html#offene-diskussion-fragen-4",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Offene Diskussion & Fragen",
+    "text": "Offene Diskussion & Fragen",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#was-machen-wir-heute-7",
+    "href": "slides/slides.html#was-machen-wir-heute-7",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Was machen wir heute",
+    "text": "Was machen wir heute\n\nRecap der letzten Sitzung\nJournal Club zu den beiden Texten\nOffene Diskussion & Fragen",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#recap-der-letzten-sitzung-1",
+    "href": "slides/slides.html#recap-der-letzten-sitzung-1",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Recap der letzten Sitzung",
+    "text": "Recap der letzten Sitzung",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#the-algorithmic-crystal-scale",
+    "href": "slides/slides.html#the-algorithmic-crystal-scale",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "The Algorithmic Crystal Scale",
+    "text": "The Algorithmic Crystal Scale\n\n\nLee, A.Y., Cullen, Z.N., Ellision, N., & Hancock, J. (2024, June 20–24). The Algorithmic Crystal Scale: Development and Validation of a Measure of Perceptions of Personalized Algorithms [Conference Presentation]. 74th Conference of the International Communication Association (ICA), Gold Coast, Australia.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#reflective",
+    "href": "slides/slides.html#reflective",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Reflective",
+    "text": "Reflective\n\nYou would get a good sense of who I am by looking at the content that shows up in my feed.\nI feel like the algorithm is tailored specifically to me.\nOverall, the algorithm is reflective of who I am and what I care about.\nI can see a lot of myself in the content that the algorithm recommends for me.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#multi-faceted",
+    "href": "slides/slides.html#multi-faceted",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Multi-faceted",
+    "text": "Multi-faceted\n\nI can see many different kinds of content that are relevant to me on my feed.\nI feel like the algorithm creates a unique blend of content for me based on a variety of things I’m interested in.\nSomeone looking at my feed would be able to tell I have diverse interests.\nMy feed shows me content representing a wide variety of things I like.\nI feel like the algorithm’s recommendations for me are quite one-dimensional.*\n\n\n\nReverse-coded items are denoted with an asterisk.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#dynamic",
+    "href": "slides/slides.html#dynamic",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Dynamic",
+    "text": "Dynamic\n\nMy feed keeps up with my latest interests by showing me new, relevant content.\nThe content recommended by the algorithm changes to match what I’m currently interested in.\nI feel like the algorithm is quick to catch on when I am interested in a new topic.\nI notice that the algorithm tends to get stuck on content I’m not interested in anymore.*\nWhen I look at my feed, it feels outdated because the content is no longer of interest to me.*\n\n\n\nReverse-coded items are denoted with an asterisk.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#agency",
+    "href": "slides/slides.html#agency",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Agency",
+    "text": "Agency\n\nI can influence what shows up on my feed.\nI have a good amount of control over what the algorithm shows me.\nIf I wanted to change what shows up on my feed, I could.\nI can’t do much to change what the algorithm shows me.*\nI don’t have much control over what the algorithm shows me.*\n\n\n\nReverse-coded items are denoted with an asterisk.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#strategic-refinement",
+    "href": "slides/slides.html#strategic-refinement",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Strategic Refinement",
+    "text": "Strategic Refinement\n\nI deliberately engage with certain kinds of content to influence what the algorithm shows me.\nI decide what to watch, or not to watch, in order to influence what the algorithm thinks I like.\nI purposefully don’t engage with certain kinds of content to refine the algorithm’s recommendations for me.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#organic-refinement",
+    "href": "slides/slides.html#organic-refinement",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Organic Refinement",
+    "text": "Organic Refinement\n\nThe algorithm is influenced by the content that I normally engage with.\nInteracting with content on my feed improves its ability to recommend content to me.\nMy everyday behaviors teach the algorithm what content I want to see.\nThe way I generally interact with content on my feed refines the algorithm’s recommendations for me.\nMy behavior does not affect the algorithm’s recommendations very much.*\n\n\n\nReverse-coded items are denoted with an asterisk.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#refraction",
+    "href": "slides/slides.html#refraction",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Refraction",
+    "text": "Refraction\n\nPeople that I see on my feed remind me of myself.\nI feel like I can relate to people on my feed even if I don’t know them.\nI often see parts of myself represented in the people and content I come across through the algorithm.\nWhen I see people show up in my feed, they remind me of myself.\nI feel quite different from the people I see on my feed.*\n\n\n\nReverse-coded items are denoted with an asterisk.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#diffracted-belonging",
+    "href": "slides/slides.html#diffracted-belonging",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Diffracted Belonging",
+    "text": "Diffracted Belonging\n\nI feel “seen” when the algorithm shows me content from people who are like me.\nWhen I spend time browsing content on my feed, I feel that there are many other people who are similar to me.\nThe content on my feed makes me feel understood because it shows me people who have similar life experiences as me.\nI feel more connected to others when I see content from people like me on my feed.\nSeeing people like me on my feed makes me feel like I am not alone.",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#journal-club-zu-den-beiden-texten-3",
+    "href": "slides/slides.html#journal-club-zu-den-beiden-texten-3",
+    "title": "Der Algorithmus kennt mich (nicht):",
+    "section": "Journal Club zu den beiden Texten",
+    "text": "Journal Club zu den beiden Texten",
+    "crumbs": [
+      "Materialien",
+      "Folien"
+    ]
+  },
+  {
+    "objectID": "slides/slides.html#offene-diskussion-fragen-5",
+    "href": "slides/slides.html#offene-diskussion-fragen-5",
     "title": "Der Algorithmus kennt mich (nicht):",
     "section": "Offene Diskussion & Fragen",
     "text": "Offene Diskussion & Fragen",
