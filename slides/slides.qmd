@@ -959,5 +959,115 @@ Andersen, J. (2018). Archiving, ordering, and searching: Search engines, algorit
 
 ## Offene Diskussion & Fragen
 
+# Sitzung 11: Machine Agency: Wie Algorithmen das Unterhaltungserleben beeiflussen können
+
+![](https://assets.amuniversal.com/0f9fb9e0decb013171a6005056a9545d)
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@strayWhatAreYou2021; @ziaraniSerendipityRecommenderSystems2021
+:::
+
+## Was machen wir heute
+
+- Recap der letzten Sitzung
+- Journal Club zu den beiden Texten
+- Offene Diskussion & Fragen
+
+## Recap der letzten Sitzung
+
+## The Algorithmic Crystal Scale
+
+:::aside
+Lee, A.Y., Cullen, Z.N., Ellision, N., & Hancock, J. (2024, June 20–24). The Algorithmic Crystal Scale: Development and Validation of a Measure of Perceptions of Personalized Algorithms [Conference Presentation]. 74th Conference of the International Communication Association (ICA), Gold Coast, Australia.
+:::
+
+## Reflective
+
+- You would get a good sense of who I am by looking at the content that shows up in my feed.
+- I feel like the algorithm is tailored specifically to me.
+- Overall, the algorithm is reflective of who I am and what I care about.
+- I can see a lot of myself in the content that the algorithm recommends for me.
+
+## Multi-faceted
+
+- I can see many different kinds of content that are relevant to me on my feed.
+- I feel like the algorithm creates a unique blend of content for me based on a variety of things I'm interested in.
+- Someone looking at my feed would be able to tell I have diverse interests.
+- My feed shows me content representing a wide variety of things I like.
+- I feel like the algorithm's recommendations for me are quite one-dimensional.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+## Dynamic
+
+- My feed keeps up with my latest interests by showing me new, relevant content.
+- The content recommended by the algorithm changes to match what I'm currently interested in.
+- I feel like the algorithm is quick to catch on when I am interested in a new topic.
+- I notice that the algorithm tends to get stuck on content I'm not interested in anymore.*
+- When I look at my feed, it feels outdated because the content is no longer of interest to me.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+## Agency
+
+- I can influence what shows up on my feed.
+- I have a good amount of control over what the algorithm shows me.
+- If I wanted to change what shows up on my feed, I could.
+- I can't do much to change what the algorithm shows me.*
+- I don't have much control over what the algorithm shows me.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+## Strategic Refinement
+
+- I deliberately engage with certain kinds of content to influence what the algorithm shows me.
+- I decide what to watch, or not to watch, in order to influence what the algorithm thinks I like.
+- I purposefully don't engage with certain kinds of content to refine the algorithm's recommendations for me.
+
+## Organic Refinement
+
+- The algorithm is influenced by the content that I normally engage with.
+- Interacting with content on my feed improves its ability to recommend content to me.
+- My everyday behaviors teach the algorithm what content I want to see.
+- The way I generally interact with content on my feed refines the algorithm's recommendations for me.
+- My behavior does not affect the algorithm's recommendations very much.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+## Refraction
+
+- People that I see on my feed remind me of myself.
+- I feel like I can relate to people on my feed even if I don't know them.
+- I often see parts of myself represented in the people and content I come across through the algorithm.
+- When I see people show up in my feed, they remind me of myself.
+- I feel quite different from the people I see on my feed.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+## Diffracted Belonging
+
+- I feel "seen" when the algorithm shows me content from people who are like me.
+- When I spend time browsing content on my feed, I feel that there are many other people who are similar to me.
+- The content on my feed makes me feel understood because it shows me people who have similar life experiences as me.
+- I feel more connected to others when I see content from people like me on my feed.
+- Seeing people like me on my feed makes me feel like I am not alone.
+
+## Journal Club zu den beiden Texten
+
+## Offene Diskussion & Fragen
+
 # Literaturangaben
 
